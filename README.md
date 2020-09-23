@@ -1,1 +1,1 @@
-# 23people
+# 23people Challenge
